@@ -1,6 +1,6 @@
 # ML California Housing
 
-# Predictive Modeling adn Classificiation with Regression and KNN
+# Predictive Modeling and Classificiation with Regression and KNN
 -
 -
 -
